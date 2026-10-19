@@ -1,0 +1,1 @@
+"""Document validation for knowledge ingestion."""
